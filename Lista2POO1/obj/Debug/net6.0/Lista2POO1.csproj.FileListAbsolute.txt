@@ -1,0 +1,14 @@
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.AssemblyInfoInputs.cache
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.AssemblyInfo.cs
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.csproj.CoreCompileInputs.cache
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\bin\Debug\net6.0\Lista2POO1.exe
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\bin\Debug\net6.0\Lista2POO1.deps.json
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\bin\Debug\net6.0\Lista2POO1.runtimeconfig.json
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\bin\Debug\net6.0\Lista2POO1.dll
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\bin\Debug\net6.0\Lista2POO1.pdb
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.dll
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\refint\Lista2POO1.dll
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.pdb
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\Lista2POO1.genruntimeconfig.cache
+D:\Lista de Exercícios - Linguagem C#\Lista2POO1\Lista2POO1\obj\Debug\net6.0\ref\Lista2POO1.dll
